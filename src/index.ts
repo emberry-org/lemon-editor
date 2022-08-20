@@ -1,4 +1,4 @@
-import "./index.css";
+import "src/index.css";
 
 import { LemonConfig } from "./config";
 import { LemonEditor } from "./editor";
