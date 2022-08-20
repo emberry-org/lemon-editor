@@ -2,7 +2,7 @@
   "name": "lemon-editor",
   "version": "1.0.2",
   "description": "Rich Text Editor build on Codemirror",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
     "build": "tsc"
