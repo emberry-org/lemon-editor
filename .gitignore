@@ -1,7 +1,6 @@
-# Npm
-/node_modules
-/npm-debug.log
-/package-lock.json
+node_modules
+dist
+gitignore
 
-# Build Dir
-/lib
+# tsup
+tsup.config.bundled_*.{m,c,}s
