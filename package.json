@@ -1,17 +1,17 @@
 {
   "version": "0.0.0",
-  "name": "{{name_of_lib}}",
-  "description": "{{desc_of_lib}}",
+  "name": "lemon-editor",
+  "description": "Rich text editor for Emberry made with CodeMirror",
   "license": "MIT",
-  "author": "{{me}}",
+  "author": "Max",
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/{{me}}/{{name_of_lib}}.git"
+    "url": "git+https://github.com/emberry-org/lemon-editor.git"
   },
-  "homepage": "https://github.com/{{me}}/{{name_of_lib}}#readme",
+  "homepage": "https://github.com/emberry-org/lemon-editor#readme",
   "bugs": {
-    "url": "https://github.com/{{me}}/{{name_of_lib}}/issues"
+    "url": "https://github.com/emberry-org/lemon-editor/issues"
   },
   "files": [
     "dist"
